@@ -1,4 +1,4 @@
 # Blockchain_Playground
-`git clone github.com/jasonskipper/Blockchain_Playground`  
+`git clone https://github.com/jasonskipper/Blockchain_Playground`  
 `npm install`  
 `npm start`
